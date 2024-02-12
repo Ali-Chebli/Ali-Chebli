@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Chebli
 
-I'm currently an AI student at the University of Malaya, deeply passionate about all things related to Artificial Intelligence and Machine Learning. My journey in studing AI is to learn and apply the latest technologies in the buiseness and AI field together.
+I'm currently an AI student at the University of Malaya, deeply passionate about all things related to Artificial Intelligence and Machine Learning. My journey in AI is to learn and apply the latest technologies in the buiseness and AI field together.
 
 
 ### About Me
@@ -21,7 +21,7 @@ Languages, Frameworks/Tools:
 
 ### Connect with Me
 
-Feel free to reach me out:
+Feel free to reach out for me:
 
 <a href="https://discord.com/users/374178143440994304" target="_blank">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-a.l.c.l-7289DA?style=flat-square&logo=discord"></a>
