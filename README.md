@@ -23,5 +23,7 @@ Languages, Frameworks/Tools:
 
 Feel free to reach me out:
 
-![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white) [alichebli6512@gmail.com](mailto:alichebli6512@gmail.com)
-![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white) a.l.c.l
+![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)
+[alichebli6512@gmail.com](mailto:alichebli6512@gmail.com)
+![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)
+a.l.c.l
